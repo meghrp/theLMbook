@@ -2,56 +2,40 @@
 
 [gimmick:theme](spacelab)
 
-## Getting Started
+This page provides a concise map of the wiki.
 
-- [PyTorch tutorials](PyTorch.md)
-- [Math fundamentals](math.md)
-- [GPU-enabled notebook services](notebook-services.md)
-- [GPU rental services](GPU-rental.md)
+## Wiki pages
 
-## Extended Chapters
+- [GPU Rental Services](GPU-rental.md) — GPU providers and credit offers for running experiments.
+- [Mixture of Experts](MoE.md) — Introductory and practical resources on MoE models.
+- [Learning PyTorch](PyTorch.md) — Beginner-friendly PyTorch tutorials and recipes.
+- [Vision Language Models](VLM.md) — Reading list on multimodal vision-language models.
+- [Alignment](alignment.md) — RLHF and DPO resources for preference alignment.
+- [Colab Notebooks](colabs.md) — Book-related notebooks and runnable examples.
+- [Model Compression](compression.md) — Pruning, distillation, and quantization references.
+- [Corrections](corrections.md) — Errata and book corrections.
+- [Deployment](deployment.md) — Resources for serving and deploying LLMs.
+- [Distributed Training](distributed.md) — Multi-GPU and distributed training tutorials.
+- [Embeddings](embeddings.md) — Word and document embeddings resources.
+- [Encoder-Decoder Architecture](encoder-decoder.md) — Seq2seq and encoder-decoder model references.
+- [Encoder Architecture](encoder.md) — Encoder-only models such as BERT and RoBERTa.
+- [Evaluation Methods](evaluation.md) — LLM evaluation, benchmarks, and ranking methods.
+- [Function Calling](function-calling.md) — Guides and references on function/tool calling.
+- [Inference Cost and Speed Optimization](inference.md) — Techniques to accelerate and reduce inference cost.
+- [Math Fundamentals](math.md) — Linear algebra, calculus, probability, and statistics resources.
+- [Model Merging](merging.md) — Resources for merging and combining language models.
+- [Non-Transformer Architectures](non-transformer.md) — Alternative sequence model architectures.
+- [GPU-Enabled Notebook Services](notebook-services.md) — Free and paid notebook platforms.
+- [Online Finetuning Services](online-finetuning.md) — Hosted services for online fine-tuning.
+- [Preventing Overfitting](overfitting.md) — Regularization and overfitting prevention materials.
+- [Prompt Engineering](prompting.md) — Prompt design guides, tips, and best practices.
+- [Neural Scaling Laws](scaling.md) — Scaling-law papers and compute-optimal training resources.
+- [Python Scripts](scripts.md) — Supporting Python scripts for the book.
+- [Security](security.md) — Prompt injection, jailbreaks, and LLM safety resources.
+- [Test](test.md) — A math-rendering test page and equation examples.
+- [Tokenization](tokenization.md) — WordPiece and tokenizer construction references.
 
-* [Derivation for 1.7 Gradient Descent](https://www.dropbox.com/scl/fi/zpnwrmhfatnoyy2sepucd/chapter_1_extra_1.pdf?rlkey=bj28oknku9ofs81nl59nv2wwu&dl=0)
-* [Derivation for 2.6. Evaluating Language Models](https://www.dropbox.com/scl/fi/9i1r13h06jevahdhez2dg/chapter_6_extra_1.pdf?rlkey=r9723j6dz2g3zo36um1fjytp4&dl=0)
-* [Extra Chapter A: Convolutional Neural Network](https://www.dropbox.com/scl/fi/ytm50ol12mv5sq0fvu741/chapter_A.pdf?rlkey=greb4k4j335qbtm5o7qju8p9g&dl=0)
+## Notes
 
-## Code
-
-* [Python scripts](scripts.md)
-* [Colab notebooks](colabs.md)
-
-## Engineering
-
-* [Online finetuning services](online-finetuning.md)
-* [Deployment](deployment.md)
-* [Inference cost and speed optimization](inference.md)
-* [Distributed training](distributed.md)
-* [Preventing overfitting](overfitting.md)
-
-## Language Model
-
-* [Evaluation methods](evaluation.md)
-* [Prompt engineering](prompting.md)
-* [Function calling](function-calling.md)
-
-## Advanced Topics
-
-* [Scaling laws](scaling.md)
-* [Mixture of experts](MoE.md)
-* [Model merging](merging.md)
-* [Model compression](compression.md)
-* [Preference-based alignment](alignment.md)
-* [Security](security.md)
-* [Vision language models](VLM.md)
-
-## Additional Reading
-
-* [Embeddings](embeddings.md)
-* [Tokenization methods](tokenization.md)
-* [Encoder architecture](encoder.md)
-* [Encoder-decoder architecture](encoder-decoder.md)
-* [Non-Transformer architectures](non-transformer.md)
-
-## Corrections
-
-* [Corrections](corrections.md)
+- The wiki is organized as a reading map for the book's chapters and related topics.
+- Links above point to the corresponding markdown pages in this repository.
